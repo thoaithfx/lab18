@@ -1,0 +1,31 @@
+.carousel-inner {
+    height: 800px;
+}
+    .carousel-inner .carousel-item {
+        height: 100%;
+    }
+.bg-img1{
+    background-color: #000;
+    background-size: cover;
+    background-image: url(https://xuansoncamera.com/image/data/0001/hoc-hoi-cach-chup-anh-dem-dep-khong-tuong-tu-nguoi-chuyen-nghiep.jpg);
+}
+.bg-img2{
+    background-color: #000;
+    background-size: cover;
+    background-image: url(https://cdn.pixabay.com/photo/2016/08/12/16/39/street-light-1589134_1280.jpg);
+}
+.bg-img3{
+    background-color: #000;
+    background-size: cover;
+    background-image: url(https://st4.depositphotos.com/9661186/23654/i/450/depositphotos_236547622-stock-photo-street-lamp-night-city-close.jpg);
+} 
+.container-footer1{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.column2{
+    justify-self: end;
+    margin-right: 50px;
+}
